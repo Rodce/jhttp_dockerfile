@@ -7,3 +7,8 @@ cd jhttp_dockerfile
 chmod +x run_and_test.sh
 
 ./run_and_test.sh
+
+
+
+
+We run container like a deamon, so dont forge  "docker stop java_web_server"
