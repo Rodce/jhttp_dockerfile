@@ -11,4 +11,4 @@ chmod +x run_and_test.sh
 
 
 
-We run container like a deamon, so dont forge  "docker stop java_web_server"
+We run container like a deamon, so don't forget  "docker stop java_web_server"
